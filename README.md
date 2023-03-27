@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&&fontSize=40&text=Hello%20World&color=gradient&height=150&animation=fadeIn&section=footer&fontColor=323232&fontAlign=80&fontAlignY=70)
 <!--
 **Dope-B/Dope-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
